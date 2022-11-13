@@ -9,12 +9,12 @@
 ## Current Releases:
 | **Scorebug** | **Release** | **Release Date** | **Download Link** | **Credits** |
 |:--------|:----|:----|:----|:----|
-| <img height="100" src="assets/images/CBS.png"> | CBS | 9/3/2022 | [Download](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/CBS/index.md) | TheKeith, Mith, Tanner Watkins, LivingHuman
-| <img height="100" src="assets/images/CBSSEC.png"> | CBS SEC | 9/11/2022 | [Download](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/CBS%20SEC/index.md) | TheKeith, Mith, Tanner Watkins, LivingHuman
-| <img height="100" src="assets/images/ESPN.png"> | ESPN 2022 | 9/3/2022 | [Download](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/ESPN%202022/index.md) | TheKeith, Mith, Tanner Watkins
-| <img height="100" src="assets/images/ESPN.png"> | ESPN 2018-19 | 9/11/2022 | [Download](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/ESPN%2018-19/index.md) | TheKeith, Tanner Watkins
-| <img height="100" src="assets/images/CFP.png"> | CFP 2021 | 9/11/2022 | [Download](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/CFP%202021/index.md) | Mith
-| <img height="100" src="assets/images/CFP.png"> | CFP 2022 | 9/11/2022 | [Download](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/CFP%202022/index.md) | Mith, TheKeith
+| <img height="100" width="200" src="assets/images/CBS.png"> | CBS | 9/3/2022 | [Download](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/CBS/index.md) | TheKeith, Mith, Tanner Watkins, LivingHuman
+| <img height="100" width="200" src="assets/images/CBSSEC.png"> | CBS SEC | 9/11/2022 | [Download](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/CBS%20SEC/index.md) | TheKeith, Mith, Tanner Watkins, LivingHuman
+| <img height="100" width="200" src="assets/images/ESPN.png"> | ESPN 2022 | 9/3/2022 | [Download](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/ESPN%202022/index.md) | TheKeith, Mith, Tanner Watkins
+| <img height="100" width="200" src="assets/images/ESPN.png"> | ESPN 2018-19 | 9/11/2022 | [Download](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/ESPN%2018-19/index.md) | TheKeith, Tanner Watkins
+| <img height="100" width="200" src="assets/images/CFP.png"> | CFP 2021 | 9/11/2022 | [Download](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/CFP%202021/index.md) | Mith
+| <img height="100" width="200" src="assets/images/CFP.png"> | CFP 2022 | 9/11/2022 | [Download](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/CFP%202022/index.md) | Mith, TheKeith
 
 ---------
 ## Future Releases
