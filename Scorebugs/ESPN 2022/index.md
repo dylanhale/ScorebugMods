@@ -1,4 +1,4 @@
-# <img width="80" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/CBSSEC.png"> CBS SEC Download
+# <img width="80" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/ESPN.png"> ESPN 2022 Download
 
 
 ## Select Button Version - (Playstation or XBOX)
