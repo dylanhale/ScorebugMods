@@ -6,7 +6,7 @@
 
 ---------
 
-## Current Releases:
+## Released Scorebugs:
 | **Scorebug** | **Scorebug Name** | **Release Date** | **Version** | **Download Link** | **Credits** |
 |:--------|:-----|:----|:---|:----|:--|
 | <img height="50" width="100" src="assets/images/CBS.png"> | CBS | 11/12/2022 | 1.1 |  [Download](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/CBS/index.md) | TheKeith, Mith, Tanner Watkins, LivingHuman
@@ -18,7 +18,7 @@
 | <img height="50" width="100" src="assets/images/CFP.png"> | CFP 2022 | 10/24/2022 | Beta | [Download](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/CFP%202022/index.md) | Mith, TheKeith, Igloo
 
 ---------
-## Future Releases
+## Future Scorebug Releases
 - **FOX:** TBA
 - **FS1:** TBA
 ---------
