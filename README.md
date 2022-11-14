@@ -7,7 +7,7 @@
 ---------
 
 ## Current Releases:
-| **Scorebug** | **Scorebug Name** | **Version** | **Release Date** | **Download Link** | **Credits** |
+| **Scorebug** | **Scorebug Name** | **Release Date** | **Version** | **Download Link** | **Credits** |
 |:--------|:----|:----|:----|:----|:----|
 | <img height="80" width="160" src="assets/images/CBS.png"> | CBS | 11/12/2022 | 1.1 |  [Download](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/CBS/index.md) | TheKeith, Mith, Tanner Watkins, LivingHuman
 | <img height="80" width="160" src="assets/images/CBSSEC.png"> | CBS SEC | 11/12/2022 | 1.1 | [Download](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/CBS%20SEC/index.md) | TheKeith, Mith, Tanner Watkins, LivingHuman
