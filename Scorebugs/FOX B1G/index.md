@@ -1,4 +1,4 @@
-# <img width="80" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/FOX.png"> FOX B1G Download
+# <img width="90" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/FOXB1G.png"> FOX B1G Download
 
 
 ## Select Button Version - (Playstation or XBOX)
