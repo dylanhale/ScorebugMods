@@ -1,7 +1,7 @@
 # CFBR Scorebug Mods
 
 <p align="center">
-  <img width="750" src="assets/images/LogoShadow.png">
+  <img width="750" src="assets/images/LogoCredits.png">
 </p>
 
 ---------
