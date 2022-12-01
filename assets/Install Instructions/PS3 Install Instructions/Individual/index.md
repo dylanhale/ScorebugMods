@@ -1,4 +1,4 @@
-# <img width="90" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/Playstation.png"> PS3 Install Instructions
+# <img width="90" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/Playstation.png"> PS3 Manual Install Instructions
 
 ---------
 
