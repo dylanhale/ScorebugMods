@@ -22,9 +22,9 @@
 ## Install Instructions:
 | **Platform** | **Instructions Link**|
 |:--------|:-----|
-| <img height="60" width="150" src="assets/images/Xbox.png"> | Coming Soon
-| <img height="60" width="150" src="assets/images/Playstation.png"> |  Coming Soon
-| <img height="60" width="150" src="assets/images/RPCS3.png"> | Coming Soon
+| <img height="70" width="150" src="assets/images/Xbox.png"> | Coming Soon
+| <img height="70" width="150" src="assets/images/Playstation.png"> |  Coming Soon
+| <img height="70" width="150" src="assets/images/RPCS3.png"> | Coming Soon
 
 
 ---------
