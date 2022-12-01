@@ -18,7 +18,17 @@
 | <img height="60" width="150" src="assets/images/CFP.png"> | CFP 2022 | 11/14/2022 | 1.3 | [Download](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/CFP%202022/index.md) | Mith, TheKeith, Igloo
 
 ---------
-## Future Scorebug Releases
+
+## Install Instructions:
+| **Platform** | **Instructions Link**|
+|:--------|:-----|
+| <img height="60" width="150" src="assets/images/Xbox.png"> | Coming Soon
+| <img height="60" width="150" src="assets/images/Playstation.png"> |  Coming Soon
+| <img height="60" width="150" src="assets/images/RPCS3.png"> | Coming Soon
+
+
+---------
+## Future Scorebug Releases:
 | **Scorebug** | **Scorebug Name** | **Release Date** |
 |:--------|:-----|:----|
 | <img height="50" width="100" src="assets/images/FOX.png"> | FOX | TBA
