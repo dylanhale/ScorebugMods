@@ -1,9 +1,11 @@
-# <img width="80" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/CBS.png"> RPCS3 Install Instructions
+# <img width="90" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/RPCS3.png"> RPCS3 Install Instructions
 
-## Need to Build
+## RPCS3 Install Instructions Coming Soon
 
-## Select Button Version - (Playstation or XBOX)
+---------
 
-| <img width="500" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/PlaystationC.png"> | <img width="500" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/XboxC.png"> |
+### Ignore
+
+| <img width="500" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/RPCS3.png"> | <img width="500" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/RPCS3.png"> |
 | :---: | :---: |
 | Null | Null |
