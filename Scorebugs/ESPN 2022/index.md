@@ -7,7 +7,8 @@
 |:---:|:---:|
 | [Playstation Buttons](https://www.mediafire.com/file/kuhk6jfo83ubx32/ESPN22-PSButtons.rar/file) | [XBOX Buttons](https://www.mediafire.com/file/9yf1pzoalwi2lwz/ESPN22-XboxButtons.rar/file) |
 
-##XBOX Beta
+|:---:|:---:|
+## XBOX Beta
 | <img width="500" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/Xbox.png"> 
 | .[XBOX File](https://www.mediafire.com/file/2bcmkkle5u48dm5/qkl_fe2ig.ast/file") |
 
