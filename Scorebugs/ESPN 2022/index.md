@@ -16,6 +16,10 @@
 [XBOX File](assets/plot_petals.png)
 </div>
                                                                               
+|:---:|:---:|
+## XBOX Beta
+| <img width="500" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/Xbox.png"> 
+| .[XBOX File](https://www.mediafire.com/file/2bcmkkle5u48dm5/qkl_fe2ig.ast/file") |
 
 
 ---------
