@@ -13,7 +13,6 @@
 <div align="center">
 
 [XBOX File](https://www.mediafire.com/file/2bcmkkle5u48dm5/qkl_fe2ig.ast/file)
-[XBOX File](assets/plot_petals.png)
 </div>
                                                                               
 
