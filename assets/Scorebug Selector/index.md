@@ -1,5 +1,9 @@
 # Scorebug Selector by LivingHuman Download
 
+<p align="center">
+  <img width="1000" src="../images/LogoSelector.png">
+</p>
+
 ### Scorebug Selector RPCS3 Install Instructions
 1) Download the Scorebug Selector from [Here](https://www.mediafire.com/file/t8argrrgsscqp0k/Scorebug_Selector_v1.5.rar/file)
 
