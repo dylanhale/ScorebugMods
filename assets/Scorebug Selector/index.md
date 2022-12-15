@@ -9,7 +9,7 @@
 2) Go to https://github.com/dylanhale/ScorebugMods and download the scorebugs you want from there. These are pre-packaged AST files which just need to be renamed and placed into the Scorebugs folder.
 
 
-3) Your current qkl_interface, boot, and patch files which are whatever scorebug you are currently using should be renamed in accordance with the file names section which can be found in the README.txt and placed into the scorebugs folder. This makes it so that you do not accidently lose any game files. This means that if you are currently using the CBS Scorebug, you'd rename qkl_interface.ast to CBSInterface.ast, qkl_boot.ast to CBSBoot.ast, qkl_fe2ig.ast to CBSFE2IG.ast, and qkl_patch.ast to CBSPatch.ast and then move those files into the Scorebugs folder overwriting the exisitng blank placeholder files.
+3) Your current qkl_interface, boot, fe2ig, and patch files which are whatever scorebug you are currently using should be renamed in accordance with the file names section which can be found in the README.txt and placed into the scorebugs folder. This makes it so that you do not accidently lose any game files. This means that if you are currently using the CBS Scorebug, you'd rename qkl_interface.ast to CBSInterface.ast, qkl_boot.ast to CBSBoot.ast, qkl_fe2ig.ast to CBSFE2IG.ast, and qkl_patch.ast to CBSPatch.ast and then move those files into the Scorebugs folder overwriting the exisitng blank placeholder files.
 
 
 4) Note that the Scorebugs folder contains empty placeholder files, when you place a file in that folder just overwrite what is in there. The empty files are there as a guidance for naming and are also needed for the Selector to work properly and to not list every non installed scorebug as "active".
