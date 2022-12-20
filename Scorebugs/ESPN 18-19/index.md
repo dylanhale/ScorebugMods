@@ -4,7 +4,7 @@
 
 | <img width="500" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/Playstation.png"> | <img width="500" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/Xbox.png"> | <img width="500" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/RPCS3.png"> |
 | :---:|:---:|:---:|
-| [PS3](https://www.mediafire.com/file/xl25flx28i6nr10/ESPN1819-PSButtons.rar/file) |  [XBOX - Beta](https://www.mediafire.com/folder/70i2gologe2ur/espn2018xb)| [RPCS3](https://github.com/dylanhale/Scorebugs/ESPN%18-19/RPCS3/index.md) |
+| [PS3](https://www.mediafire.com/file/xl25flx28i6nr10/ESPN1819-PSButtons.rar/file) |  [XBOX - Beta](https://www.mediafire.com/folder/70i2gologe2ur/espn2018xb)| [RPCS3](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/ESPN%2018-19/RPCS3/index.md) |
 
 
 ---------
