@@ -9,4 +9,4 @@
 
 ---------
 ## Manual Install - Individual Files - AST Editor Needed
-[Individual Files](https://www.mediafire.com/file/hnwnugk6b82d05y/CBSSEC-Individual.rar/file)
+[Individual Files]
