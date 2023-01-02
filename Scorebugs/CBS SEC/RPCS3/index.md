@@ -1,5 +1,6 @@
-# <img width="80" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/ESPN20-22.png"> ESPN 2021 Download
+# <img width="80" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/CBSSEC.png"> CBS SEC RPCS3 Download
 
+### Rename or delete your qkl_patch.edat file.
 
 ## Select Button Version - (Playstation or XBOX)
 | <img width="500" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/PlaystationC.png">  | <img width="500" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/XboxC.png">
@@ -8,4 +9,4 @@
 
 ---------
 ## Manual Install - Individual Files - AST Editor Needed
-[Individual Files](https://github.com/cfbrevamped/CFBR-Easy-Installer)
+[Individual Files]()

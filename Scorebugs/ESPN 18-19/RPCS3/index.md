@@ -9,4 +9,4 @@
 
 ---------
 ## Manual Install - Individual Files - AST Editor Needed
-[Individual Files](https://www.mediafire.com/file/h82dz6ya4li9013/ESPN1819-Individual.rar/file)
+[Individual Files]()

@@ -6,7 +6,3 @@
 | :---:|:---:|:---:|
 | [PS3] |  [XBOX - Beta]| [RPCS3](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/ESPN%2018-19/RPCS3/index.md) |
 
-
----------
-## Manual Install RPCS3 / PS3 Only - Individual Files - AST Editor Needed
-[Individual Files](https://www.mediafire.com/file/h82dz6ya4li9013/ESPN1819-Individual.rar/file)

@@ -1,12 +1,8 @@
 # <img width="80" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/CBSSEC.png"> CBS SEC Download
 
-## Rename or delete your qkl_patch.edat file.
+## Select Platform - (Playstation / XBOX / RPCS3)
 
-## Select Button Version - (Playstation or XBOX)
-| <img width="500" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/PlaystationC.png">  | <img width="500" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/XboxC.png">
-|:---:|:---:|
-| [Playstation Buttons] | [XBOX Buttons](https://www.mediafire.com/file/o3upeaof2z9zlkh/SEC-XboxButtons-V20.rar/file) |
+| <img width="500" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/Playstation.png"> | <img width="500" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/Xbox.png"> | <img width="500" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/RPCS3.png"> |
+| :---:|:---:|:---:|
+| [PS3] |  [XBOX - Beta]| [RPCS3](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/CBS%20SEC/RPCS3/index.md) |
 
----------
-## Manual Install - Individual Files - AST Editor Needed
-[Individual Files]
