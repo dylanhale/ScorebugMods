@@ -9,4 +9,4 @@
 
 ---------
 ## Manual Install - Individual Files - AST Editor Needed
-[Individual Files](https://www.mediafire.com/file/to0rovuw9i5d1i5/ESPN22-Individual.rar/file)
+[Individual Files]
