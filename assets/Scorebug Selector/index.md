@@ -5,7 +5,7 @@
 </p>
 
 ### Scorebug Selector RPCS3 Install Instructions
-1) Download the Scorebug Selector from [Here - Down for V20 Update]()
+1) Download the Scorebug Selector from [Here](https://www.mediafire.com/file/0kpep3tm7lq0jki/Scorebug_Selector_v1.6.rar/file)
 
 1) Extract the Scorebug Selector.bat and Scorebugs folder to the root directory of CFBR. Located at - (RPCS3\dev_hdd0\disc\BLUS31159-[NCAA Football 14]\PS3_GAME\USRDIR)
 
