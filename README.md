@@ -9,11 +9,11 @@
 ## Released Scorebugs:
 | **Scorebug** | **Name** | **Release** | **Version** | **Link** | **Credits** |
 |:--------|:-----|:----|:---|:----|:--|
-| <img height="60" width="150" src="assets/images/CBS.png"> | CBS | 11/12/2022 | 1.2 |  [Download](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/CBS/index.md) | TheKeith, Mith, Tanner Watkins, LivingHuman
-| <img height="60" width="150" src="assets/images/CBSSEC.png"> | CBS SEC | 11/12/2022 | 1.2 | [Download](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/CBS%20SEC/index.md) | TheKeith, Mith, Tanner Watkins, LivingHuman
-| <img height="60" width="150" src="assets/images/ESPN15-20.png"> | ESPN 2018-19 | 10/16/2022 | 1.0 | [](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/ESPN%2018-19/index.md) | TheKeith
-| <img height="60" width="150" src="assets/images/ESPN20-22.png"> | ESPN 2020-22 | 10/24/2022 | 1.3 | [Download](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/ESPN%202022/index.md) | TheKeith, Igloo
-| <img height="60" width="150" src="assets/images/CFP.png"> | CFP 2020-22 | 11/14/2022 | 1.4 | [Download](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/CFP%202022/index.md) | Mith, TheKeith, Igloo, LivingHuman
+| <img height="65" width="150" src="assets/images/CBS.png"> | CBS | 11/12/2022 | 1.2 |  [Download](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/CBS/index.md) | TheKeith, Mith, Tanner Watkins, LivingHuman
+| <img height="65" width="150" src="assets/images/CBSSEC.png"> | CBS SEC | 11/12/2022 | 1.2 | [Download](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/CBS%20SEC/index.md) | TheKeith, Mith, Tanner Watkins, LivingHuman
+| <img height="65" width="150" src="assets/images/ESPN15-20.png"> | ESPN 2018-19 | 10/16/2022 | 1.0 | [](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/ESPN%2018-19/index.md) | TheKeith
+| <img height="65" width="150" src="assets/images/ESPN20-22.png"> | ESPN 2020-22 | 10/24/2022 | 1.3 | [Download](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/ESPN%202022/index.md) | TheKeith, Igloo
+| <img height="65" width="150" src="assets/images/CFP.png"> | CFP 2020-22 | 11/14/2022 | 1.4 | [Download](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/CFP%202022/index.md) | Mith, TheKeith, Igloo, LivingHuman
 
 ---------
 
