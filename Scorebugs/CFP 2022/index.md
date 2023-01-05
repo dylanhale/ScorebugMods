@@ -4,5 +4,5 @@
 
 | <img width="500" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/Playstation.png"> | <img width="500" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/Xbox.png"> | <img width="500" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/RPCS3.png"> |
 | :---:|:---:|:---:|
-| [PS3] |  [XBOX - Beta]| [RPCS3](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/CFP%202022/RPCS3/index.md) |
+| [PS3](https://www.mediafire.com/file/n6ojfqj1i7enfsa/CFP-PSButtons-V20.rar/file) |  XBOX - Coming Soon | [RPCS3](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/CFP%202022/RPCS3/index.md) |
 
