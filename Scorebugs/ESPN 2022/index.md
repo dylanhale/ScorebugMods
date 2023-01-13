@@ -4,6 +4,6 @@
 
 | <img width="500" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/Playstation.png"> | <img width="500" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/Xbox.png"> | <img width="500" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/RPCS3.png"> |
 | :---:|:---:|:---:|
-| [PS3](https://www.mediafire.com/file/4sge1rt3uc9ia5f/ESPN22-PSButtons-V20.rar) |  [XBOX](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/ESPN%202022/Xbox/index.md)| [RPCS3](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/ESPN%202022/RPCS3/index.md) |
+| [PS3]() |  [XBOX](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/ESPN%202022/Xbox/index.md)| [RPCS3](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/ESPN%202022/RPCS3/index.md) |
 
 
