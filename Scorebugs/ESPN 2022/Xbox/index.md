@@ -1,9 +1,9 @@
 # <img width="80" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/ESPN20-22.png"> ESPN 2022 XBOX Download
 ---------
 ## Pre Packed Files
-[Interface](https://www.mediafire.com/file/uwifu6nzldhkbq7/qkl_interface.ast)
+[Interface]()
 
-[FE2IG](https://www.mediafire.com/file/3kutjjgwrkrf8lv/qkl_fe2ig.ast)
+[FE2IG]()
 
 
 ---------
