@@ -9,4 +9,4 @@
 
 ---------
 ## Manual Install - Individual Files - AST Editor Needed
-[Individual Files](https://www.mediafire.com/file/j23nrkiotgxomty/SEC-Individual-V20.rar)
+[Individual Files](https://www.mediafire.com/file/hgjrdiz2tehv50y/SEC-Individual-V20.1.rar/file)
