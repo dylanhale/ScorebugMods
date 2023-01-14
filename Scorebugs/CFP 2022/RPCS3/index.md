@@ -9,4 +9,4 @@
 
 ---------
 ## Manual Install - Individual Files - AST Editor Needed
-[Individual Files](https://www.mediafire.com/file/y37jkskecz8yo5d/CFP-Individual-V20.rar/file)
+[Individual Files](https://www.mediafire.com/file/2lfn5y4pxc8yn2m/CFP-Individual-V20.1.rar/file)
