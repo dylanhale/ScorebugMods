@@ -5,7 +5,7 @@
 ## Select Button Version - (Playstation or XBOX)
 | <img width="500" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/PlaystationC.png">  | <img width="500" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/XboxC.png">
 |:---:|:---:|
-| [Playstation Buttons]() | [XBOX Buttons]() |
+| [Playstation Buttons] | [XBOX Buttons](https://www.mediafire.com/file/tgsvrxli6r1ha1h/SEC-XboxButtons-V20.1.rar/file) |
 
 ---------
 ## Manual Install - Individual Files - AST Editor Needed
