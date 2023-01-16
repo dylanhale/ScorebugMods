@@ -22,7 +22,7 @@
 |:--------|:-----|
 | <img height="70" width="150" src="assets/images/Xbox.png"> | Coming Soon
 | <img height="70" width="150" src="assets/images/Playstation.png"> |  Coming Soon
-| <img height="70" width="150" src="assets/images/RPCS3.png"> | Manual install: https://www.youtube.com/watch?v=JRn3-AW1ub0
+| <img height="70" width="150" src="assets/images/RPCS3.png"> | [Instructions](https://www.youtube.com/watch?v=JRn3-AW1ub0)
 
 
 ---------
