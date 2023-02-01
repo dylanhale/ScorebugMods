@@ -18,8 +18,7 @@
 
 #
 ### Step Four:
-#### If using individual files to install, use the AST Editor to add the files into each required AST and save to a different location on the PC.
-#### Once all files have been completed, drag and drop the new AST files onto a USB and install in Multiman.
+#### Drag and drop the new AST files in the download onto a USB and install in Multiman.
 
 #
 ### Step Five:
