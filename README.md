@@ -21,7 +21,7 @@
 | **Platform** | **Instructions Link**|
 |:--------|:-----|
 | <img height="70" width="150" src="assets/images/Xbox.png"> | Coming Soon
-| <img height="70" width="150" src="assets/images/Playstation.png"> |  Coming Soon
+| <img height="70" width="150" src="assets/images/Playstation.png"> | [Instructions](https://github.com/dylanhale/ScorebugMods/blob/69ea0a923134e8f810f1c6f576b20ab6aabd85d5/assets/Install%20Instructions/PS3%20Install%20Instructions/Easy%20Install/index.md)
 | <img height="70" width="150" src="assets/images/RPCS3.png"> | [Instructions](https://www.youtube.com/watch?v=JRn3-AW1ub0)
 
 
