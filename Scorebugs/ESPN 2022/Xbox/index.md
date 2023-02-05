@@ -1,9 +1,9 @@
 # <img width="80" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/ESPN20-22.png"> ESPN 2022 XBOX Download
 ---------
 ## Pre Packed Files
-[Interface]()
+[Interface]
 
-[FE2IG]()
+[FE2IG]
 
 
 ---------
