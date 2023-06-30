@@ -5,8 +5,8 @@
 ## Select Button Version - (Playstation or XBOX)
 | <img width="500" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/PlaystationC.png">  | <img width="500" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/XboxC.png">
 |:---:|:---:|
-| [Playstation Buttons](https://www.mediafire.com/file/4sge1rt3uc9ia5f/ESPN22-PSButtons-V20.rar) | [XBOX Buttons](https://www.mediafire.com/file/31e85wtbljmq50j/ESPN22-XboxButtons-V20.rar) |
+| [Playstation Buttons](https://www.mediafire.com/file/2o6zkum0nzgonai/ESPN22-PSButtons-V20.1.rar/file) | [XBOX Buttons](https://www.mediafire.com/file/6b6eig4tvqwcxwn/ESPN22-XboxButtons-V20.1.rar/file) |
 
 ---------
 ## Manual Install - Individual Files - AST Editor Needed
-[Individual Files](https://www.mediafire.com/file/j65p5v9iwz9pakh/ESPN22-Individual-V20.rar)
+[Individual Files](https://www.mediafire.com/file/ubz34gnmf2g50oj/ESPN22-Individual-V20.1.rar/file)
