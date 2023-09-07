@@ -28,8 +28,8 @@
 ## Future Scorebug Releases:
 | **Scorebug** | **Scorebug Name** | **Release Date** |
 |:--------|:-----|:----|
-| <img height="50" width="100" src="assets/images/FOX.png"> | FOX | TBA
-| <img height="50" width="100" src="assets/images/FS1.png"> | FS1 | TBA
+| <img height="50" width="100" src="assets/images/FOX.png"> | FOX 2023 | TBA
+| <img height="50" width="100" src="assets/images/CFP.png"> | ESPN CFP 2015-17 | TBA
 | <img height="50" width="100" src="assets/images/ESPN15-20.png"> | ESPN 2015-17 | TBA
 | <img height="50" width="100" src="assets/images/ESPN15-20.png"> | ESPN 2018-19 | TBA
 ---------
