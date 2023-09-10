@@ -4,5 +4,5 @@
 
 | <img width="500" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/Playstation.png"> | <img width="500" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/Xbox.png"> | <img width="500" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/RPCS3.png"> |
 | :---:|:---:|:---:|
-| [PS3 - v21]() |  [XBOX - Coming Soon] | [RPCS3 - v21](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/FOX%17-19/RPCS3/index.md) |
+| [PS3 - v21]() |  [XBOX - Coming Soon] | [RPCS3 - v21](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/FOX%2017-19/RPCS3/index.md) |
 
