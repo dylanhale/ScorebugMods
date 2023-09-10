@@ -1,6 +1,4 @@
-# <img width="80" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/FOX.png"> FOX 15-17 RPCS3 Download
-
-### Rename or delete your qkl_patch.edat file.
+# <img width="80" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/FOX.png"> FOX 17-19 RPCS3 Download
 
 ## Select Button Version - (Playstation or XBOX)
 | <img width="500" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/PlaystationC.png">  | <img width="500" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/XboxC.png">
