@@ -10,7 +10,7 @@
 | **Scorebug** | **Network** | **Release** | **Version** | **Link** | **Credits** |
 |:--|:--|:----|:---|:----|:--|
 | [<img height="100%" width="100%" src="assets/images/CFP.png">](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/CFP%202022/index.md) | CFP 2020-22 | 9/10/23 | 1.6 | [Download](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/CFP%202022/index.md) | Mith(textures), TheKeith, Igloo, LivingHuman(textures)
-| [<img height="100%" width="100%" src="assets/images/FOX.png">](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/FOX%2017-19/index.md) | FOX 2017-19 | 9/10/23 | 1.0 | [Download](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/FOX%2017-19/index.md) | TheKeith, Mith (textures), Tanner Watkins (textures), LivingHuman (textures)
+| [<img height="100%" width="100%" src="assets/images/FOX.png">](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/FOX%2017-19/index.md) | FOX 2017-19 | 9/10/23 | 1.0 | [Download](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/FOX%2017-19/index.md) | TheKeith, LivingHuman (textures)
 
 ---------
 
