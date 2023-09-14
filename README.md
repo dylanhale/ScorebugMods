@@ -27,7 +27,7 @@
 ## V21 Future Scorebug Releases/Updates:
 | **Scorebug** | **Scorebug Name** | **Credits** |
 |:--------|:-----|:----|
-| <img height="50" width="100" src="assets/images/FOX.png"> | FOX | 
+| <img height="50" width="100" src="assets/images/FOX.png"> | FOX 2020-22 | 
 | <img height="50" width="100" src="assets/images/CBS.png"> | CBS | TheKeith, Mith (Textures), Tanner Watkins (Textures), LivingHuman (Textures)
 | <img height="50" width="100" src="assets/images/CBSB1G.png"> | CBS B1G | TheKeith, Mith (Textures), Tanner Watkins (Textures), LivingHuman (Textures)
 | <img height="50" width="100" src="assets/images/CFP.png"> | CFP 2015-17 | 
