@@ -32,7 +32,7 @@
 | <img height="50" width="100" src="assets/images/FOX.png"> | FOX 2020-22 | 
 | <img height="50" width="100" src="assets/images/CBS.png"> | CBS | TheKeith, Mith (Textures), Tanner Watkins (Textures), LivingHuman (Textures)
 | <img height="50" width="100" src="assets/images/CBSB1G.png"> | CBS B1G | TheKeith, Mith (Textures), Tanner Watkins (Textures), LivingHuman (Textures) 
-| <img height="50" width="100" src="assets/images/ESPN15-20.png"> | ESPN 2015-17 | 
+| <img height="50" width="100" src="assets/images/CFP.png"> | CFP 2018-19 | 
 | <img height="50" width="100" src="assets/images/ESPN15-20.png"> | ESPN 2018-19 | 
 | <img height="50" width="100" src="assets/images/ESPN20-22.png"> | ESPN 2020-22 | TheKeith, Igloo
 
