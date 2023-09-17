@@ -26,6 +26,3 @@
 
 
 7) Ensure NCAA 14 is closed when you use the Scorebug Selector to change your active Scorebug or else it could possibly break your game and cause issues that I cannot help solve.
-
----
-## PS3 Install Instructions are slightly different and are included in the README.txt which can be found in the download.
