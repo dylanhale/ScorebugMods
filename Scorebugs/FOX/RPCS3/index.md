@@ -1,4 +1,4 @@
-# <img width="80" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/FOX.png"> FOX RPCS3 Download
+# <img width="80" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/FOX.png"> FOX 2020-22 RPCS3 Download
 
 ### Rename or delete your qkl_patch.edat file.
 
