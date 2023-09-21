@@ -1,4 +1,4 @@
-# <img width="80" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/FOX.png"> FOX Download
+# <img width="80" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/FOX.png"> FOX 2020-22 Download
 
 ## Select Platform - (Playstation / XBOX / RPCS3)
 
