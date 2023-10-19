@@ -1,4 +1,4 @@
-# <img width="80" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/FS1.png"> FS1 Download
+# <img width="80" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/FS1.png"> FS1 - Not Confirmed
 
 ## Select Platform - (Playstation / XBOX / RPCS3)
 
