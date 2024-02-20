@@ -1,4 +1,4 @@
-# <img width="80" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/CBS.png"> CBS RPCS3 Download
+# <img width="80" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/CBSB1G.png"> CBS B1G RPCS3 Download
 
 ### Rename or delete your qkl_patch.edat file.
 
