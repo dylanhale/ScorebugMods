@@ -14,7 +14,7 @@
 | [<img height="100%" width="100%" src="assets/images/CFP.png">](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/CFP%2015-17/index.md) | CFP 2015-17 | 9/15/23 | 1.0 | [Download](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/CFP%2015-17/index.md) | TheKeith
 | [<img height="100%" width="100%" src="assets/images/ESPN15-20.png">](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/ESPN%2015-17/index.md) | ESPN 2015-17 | 9/15/23 | 1.0 | [Download](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/ESPN%2015-17/index.md) | TheKeith
 | [<img height="100%" width="100%" src="assets/images/CBS.png">](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/CBS/index.md) | CBS | 2/20/24 | 1.2 | [Download](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/CBS/index.md) | TheKeith, Mith (Textures), Tanner Watkins (Textures), LivingHuman (Textures)
-| [<img height="100%" width="100%" src="assets/images/CBSB1G.png">](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/CBS%20B1G/index.md) | CBS | 2/20/24 | 1.0 | [Download](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/CBS%20B1G/index.md) | TheKeith, Mith (Textures), Tanner Watkins (Textures), LivingHuman (Textures)
+| [<img height="100%" width="100%" src="assets/images/CBSB1G.png">](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/CBS%20B1G/index.md) | CBS B1G | 2/20/24 | 1.0 | [Download](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/CBS%20B1G/index.md) | TheKeith, Mith (Textures), Tanner Watkins (Textures), LivingHuman (Textures)
 
 ---------
 
