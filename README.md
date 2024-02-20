@@ -13,6 +13,7 @@
 | [<img height="100%" width="100%" src="assets/images/FOX.png">](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/FOX%2017-19/index.md) | FOX 2017-19 | 9/10/23 | 1.0 | [Download](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/FOX%2017-19/index.md) | TheKeith, LivingHuman (textures)
 | [<img height="100%" width="100%" src="assets/images/CFP.png">](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/CFP%2015-17/index.md) | CFP 2015-17 | 9/15/23 | 1.0 | [Download](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/CFP%2015-17/index.md) | TheKeith
 | [<img height="100%" width="100%" src="assets/images/ESPN15-20.png">](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/ESPN%2015-17/index.md) | ESPN 2015-17 | 9/15/23 | 1.0 | [Download](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/ESPN%2015-17/index.md) | TheKeith
+| [<img height="100%" width="100%" src="assets/images/CBS.png">](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/CBS/index.md) | CBS | 2/20/24 | 1.2 | [Download](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/CBS/index.md) | TheKeith, Mith (Textures), Tanner Watkins (Textures), LivingHuman (Textures)
 
 ---------
 
@@ -29,8 +30,7 @@
 ## V21 Future Scorebug Releases/Updates:
 | **Scorebug** | **Scorebug Name** | **Credits** |
 |:--------|:-----|:----|
-| <img height="50" width="100" src="assets/images/FOX.png"> | FOX 2020-22 | 
-| <img height="50" width="100" src="assets/images/CBS.png"> | CBS | TheKeith, Mith (Textures), Tanner Watkins (Textures), LivingHuman (Textures)
+| <img height="50" width="100" src="assets/images/FOX.png"> | FOX 2020-22 |
 | <img height="50" width="100" src="assets/images/CBSB1G.png"> | CBS B1G | TheKeith, Mith (Textures), Tanner Watkins (Textures), LivingHuman (Textures) 
 | <img height="50" width="100" src="assets/images/CFP.png"> | CFP 2018-19 | 
 | <img height="50" width="100" src="assets/images/ESPN15-20.png"> | ESPN 2018-19 | 
