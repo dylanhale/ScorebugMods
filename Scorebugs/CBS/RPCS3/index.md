@@ -9,4 +9,4 @@
 
 ---------
 ## Manual Install - Individual Files - AST Editor Needed
-[Individual Files]()
+[Individual Files](https://www.mediafire.com/file/y7ik79vbh4naovp/CBS+Individual+v21.rar/file)
