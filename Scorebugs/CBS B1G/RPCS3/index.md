@@ -5,7 +5,7 @@
 ## Select Button Version - (Playstation or XBOX)
 | <img width="500" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/PlaystationC.png">  | <img width="500" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/XboxC.png">
 |:---:|:---:|
-| [Playstation Buttons](https://www.mediafire.com/file/hl4hggtemlv09m8/CBS+B1G+PSButtons+v21.rar/file) | [XBOX Buttons]() |
+| [Playstation Buttons](https://www.mediafire.com/file/hl4hggtemlv09m8/CBS+B1G+PSButtons+v21.rar/file) | [XBOX Buttons](https://www.mediafire.com/file_premium/t9lkhur2tbehh3n/CBS_B1G_XboxButtons_v21.rar/file) |
 
 ---------
 ## Manual Install - Individual Files - AST Editor Needed
