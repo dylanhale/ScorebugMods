@@ -4,5 +4,5 @@
 
 | <img width="500" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/Playstation.png"> | <img width="500" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/Xbox.png"> | <img width="500" src="https://github.com/dylanhale/ScorebugMods/blob/main/assets/images/RPCS3.png"> |
 | :---:|:---:|:---:|
-| [PS3] |  [XBOX - Beta]| [RPCS3](https://github.com/dylanhale/ScorebugMods/blob/main/Scorebugs/FOX/RPCS3/index.md) |
+| [PS3](https://www.mediafire.com/file/1w1tmmc2ps1di7i/PS3_PC_FOX2020.zip/file) |  [XBOX](https://www.mediafire.com/file/in6hciwn11m5i3d/XBOX_FOX2020.zip/file) | [RPCS3](https://www.mediafire.com/file/1w1tmmc2ps1di7i/PS3_PC_FOX2020.zip/file) |
 
